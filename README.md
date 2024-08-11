@@ -5,6 +5,7 @@
 - 📫 How to reach me You can reach me via email at [manaralkady832@gmail.com] or connect with me on LinkedIn [www.linkedin.com/in/manar-elkady-b62ba5292].
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I’m a big believer in lifelong learning and I'm always excited to take on new challenges and learn from others in the field.
+- 🌍 I’m open to opportunities that involve traveling or working abroad, whether it's for internships or full-time roles.
 
 <!---
 ManarElkady123/ManarElkady123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
