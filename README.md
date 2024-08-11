@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManarElkady123
+- 👋 Hi, I’m Manar Mohamed Mahmoud Hussien Elkady
 - 👀 I’m interested in front-end development for both mobile and web platforms, problem-solving, and continuous learning.
 - 🌱 I’m currently learning advanced front-end development techniques and improving my problem-solving skills by tackling challenges in C++.
 - 💞️ I’m looking to collaborate on  projects related to web or mobile application development, especially those that focus on user interface and experience design.
